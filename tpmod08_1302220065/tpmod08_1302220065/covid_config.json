@@ -1,0 +1,6 @@
+﻿{
+  "satuan_suhu": "celcius",
+  "batas_hari_demam": 3,
+  "pesan_ditolak": "Anda tidak diterima",
+  "pesan_diterima": "Anda diterima"
+};
